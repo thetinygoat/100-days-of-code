@@ -6,3 +6,8 @@
 
 
 **Link to work:** [Passport auth](https://github.com/thetinygoat/passport-auth)
+
+### Day 1: October 1, 2018
+
+**Today's Progress**: Made some pull requests for hacktober fest
+
