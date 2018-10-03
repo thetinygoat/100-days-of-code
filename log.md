@@ -11,3 +11,5 @@
 
 **Today's Progress**: Made some pull requests for hacktober fest
 
+### Day 2: october 2, 2018
+**Today's Progress**: worked on linked lists
